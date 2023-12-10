@@ -1,3 +1,3 @@
 # Documentation
 
-[Dirge wiki](https://github.com/DoC-Research/Documentation/wiki)
+[Research wiki](https://github.com/DoC-Research/Documentation/wiki)
